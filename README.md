@@ -18,8 +18,9 @@ The goal of my project was to take 13 years of Billboard Hot 100 number ones fro
     2021: https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2021                                                                                                                                                                                              
        2022: https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2022                                                    
                                                      
-**The license of your data and any source data:**                                                                            1. MIT Licence
-2. Other source data listed above
+**The license of your data and any source data:**                                                                                                                                      
+1. MIT Licence
+2. Wikipedia Licence: https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
 
                        
 **A data type and description for each attribute in your data:**                                                            
