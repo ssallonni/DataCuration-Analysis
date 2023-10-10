@@ -1,6 +1,6 @@
 # DataCuration-Analysis
 **The goal of your project:**                                                                                               
-The goal of my project was to take 13 years of Billboard Hot 100 number ones from 2009 to 2022 and analyze any relevant changes within the months and weeks songs have stayed on the charts and generate insights.                                                                                             
+The goal of my project was to take 13 years of Billboard Hot 100 number ones from 2009 to 2022 and analyze any relevant changes within the months, weeks, songs, and artists from the charts and generate insights. This required us to perfom ETL which is an acronym for ectract, transform, and load. Through this project, I was able to further practice web scrabing and parsing raw data into a csv file.                                                                                        
                                                                                        
  **Links to any relevant API documentation:**                                                                                            
  2009: https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2009                        
@@ -32,5 +32,3 @@ The goal of my project was to take 13 years of Billboard Hot 100 number ones fro
                                      
 **Any known issues or potential issues, such as sources of bias in collection:**                                                        
 While Wikipedia strives for accuracy, it can sometimes contain errors. This may include the data being misinterpreted or misrepresented during the transfer from Billboard to Wikipedia, or during subsequent edits by Wikipedia contributors. Wikipedia might not have a complete dataset leading some songs or artists might be missing from the data, resulting in a biased sample. The way songs and artists are categorized can also introduce bias. For example, certain genres might be overrepresented or underrepresented due to the subjective categorization by contributors. Billboard itself might have biases in how it collects and ranks data. Certain genres or demographics might be favored over others, affecting which songs make it to the top of the charts. Billboard's data may also be influenced by industry pressures, promotions, or biases in reporting, leading to certain songs or artists being overrepresented.
-
-                                                              
