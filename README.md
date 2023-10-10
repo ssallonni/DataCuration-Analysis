@@ -26,8 +26,8 @@ The goal of my project was to take 13 years of Billboard Hot 100 number ones fro
 2. Issue Month (Type: String or Categorical) The month in which the song reached the number one position on the Billboard Top 100 chart.                                                                                                            
 3. Issue Date (Type: Integer) The specific date (day of the month) when the song reached the number one position on the Billboard Top 100 chart.                                                                                                  
 4. Song (Type: String) The title of the song that achieved the number one position on the Billboard Top 100 chart.       
-5. Artist(s) (Type: String The name of the artist or artists who performed the song that reached the number one position on the Billboard Top 100 chart. In some cases, there are multiple artists involved.                                          6. Ref. (Type: Integer) The number of references or sources cited for the song's position on the chart.                   
-7. Weeks (Type: Integer) The number of consecutive weeks the song stayed at the number one position on the Billboard Top 100 chart.
+5. Artist(s) (Type: String The name of the artist or artists who performed the song that reached the number one position on the Billboard Top 100 chart. In some cases, there are multiple artists involved.                                          6. Ref. (Type: Integer) The number of references or sources cited for the song's position on the chart.                                                                                                                                                         
+ 7. Weeks (Type: Integer) The number of consecutive weeks the song stayed at the number one position on the Billboard Top 100 chart.
                                      
 **Any known issues or potential issues, such as sources of bias in collection:**                                                         
                                                                               
